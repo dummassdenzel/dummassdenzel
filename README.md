@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/5uoen7"  />
+<img align="right" height="150" src="./lunala.gif"  />
 
 ###
 
@@ -11,8 +11,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/dummassdenzel/dummassdenzel/output/snake.svg" alt="Snake animation" />
 
 ###
 
