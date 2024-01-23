@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Here to deliver only the best of what you expect.</p>
+<p align="left">I work better when I'm miserable.</p>
 
 ###
 
