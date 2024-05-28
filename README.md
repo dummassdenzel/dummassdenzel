@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm your passionate coding enthusiast Denzetsu.</h2>
+<h2 align="left">Thanks for visiting my profile. I'm Denzel.</h2>
 
 ###
 
