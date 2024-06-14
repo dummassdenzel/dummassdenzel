@@ -2,11 +2,9 @@
 
 ###
 
-<img align="right" height="150" src="./lunala.gif"  />
-
 ###
 
-<p align="left">I work better when I'm miserable.</p>
+<p align="left">I am a junior full-stack web developer, specializing in PHP, Typescript, and the Angular framework.</p>
 
 ###
 
