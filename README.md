@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Denzel.</h2>
+<h2 align="center">Hello, I'm Denzel.</h2>
 
 ###
 
@@ -9,11 +9,9 @@
 <p>If you are here, you might have come from viewing my business portfolio regarding Web Development among other things.</p>
 <p>For business inquiries, feel free to reach out and contact me to discuss how my services can assist you.</p>
 </div>
-###
 
 <br clear="both">
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
