@@ -6,6 +6,9 @@
 
 <p align="left">I am a junior full-stack web developer, specializing in PHP, Typescript, and the Angular framework.</p>
 
+<p align="left">If you are here, you might have come from viewing my business portfolio regarding Web Development among other things.</p>
+
+<p align="left">For business inquiries, feel free to reach out and contact me to discuss how my services can assist you.</p>
 ###
 
 <br clear="both">
@@ -16,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
