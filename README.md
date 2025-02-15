@@ -5,7 +5,7 @@
 ###
 <div align="center">
   
-<p>I am a junior full-stack web developer, specializing in PHP, Typescript, Angular, and Tailwind CSS.</p>
+<p>I am a junior full-stack web developer, specializing in PHP, Typescript, Svelte, and Tailwind CSS.</p>
 <p>If you are here, you might have come from viewing my business portfolio regarding Web Development among other things.</p>
 <p>For business inquiries, feel free to reach out and contact me to discuss how my services can assist you.</p>
 </div>
