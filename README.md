@@ -32,6 +32,8 @@
   <img width="12" />
 </div>
 
+<br clear="both">
+
 
 <div align="center">
 <p>But I'm also capable of:</p>
