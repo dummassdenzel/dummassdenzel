@@ -5,7 +5,7 @@
 ###
 <div align="center">
   
-<p>I am a junior full-stack web developer, specializing in PHP, Typescript, Svelte, Tauri, and Tailwind CSS.</p>
+<p>I am a junior full-stack web developer, specializing in SuKit stack (Supabase & Sveltekit.</p>
 <p>If you are here, you might have come from viewing my business portfolio regarding Web Development among other things.</p>
 <p>For business inquiries, feel free to reach out and contact me to discuss how my services can assist you.</p>
 </div>
@@ -25,7 +25,13 @@
   <img width="12" />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="30" alt="supabase logo"  />
+  <img width="12" />
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
   <img width="12" />
