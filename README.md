@@ -12,6 +12,9 @@
 
 <br clear="both">
 
+<div align="center">
+<p>My main tech stack:</p>
+</div>
 
 <div align="center">
   <img width="12" />
@@ -27,6 +30,9 @@
   <img width="12" />
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="30" alt="supabase logo"  />
   <img width="12" />
+</div>
+
+<div align="center">
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
