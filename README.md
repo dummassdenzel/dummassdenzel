@@ -36,7 +36,7 @@
 
 
 <div align="center">
-<p>But I'm also capable of:</p>
+<p>My other technologies:</p>
 </div>
 
 <div align="center">
