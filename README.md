@@ -32,6 +32,11 @@
   <img width="12" />
 </div>
 
+
+<div align="center">
+<p>But I'm also capable of:</p>
+</div>
+
 <div align="center">
    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
